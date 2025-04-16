@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
+August's Test Website
 
